@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ObserverPattern(Behavourial_Design)/1.0.0": {
+        "runtime": {
+          "ObserverPattern(Behavourial_Design).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverPattern(Behavourial_Design)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

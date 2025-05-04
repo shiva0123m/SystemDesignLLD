@@ -1,0 +1,14 @@
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.AssemblyInfoInputs.cache
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.AssemblyInfo.cs
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.csproj.CoreCompileInputs.cache
+D:\.Net(first_projec)\Factory_Pattern_Design\bin\Debug\net8.0\Factory_Pattern_Design.exe
+D:\.Net(first_projec)\Factory_Pattern_Design\bin\Debug\net8.0\Factory_Pattern_Design.deps.json
+D:\.Net(first_projec)\Factory_Pattern_Design\bin\Debug\net8.0\Factory_Pattern_Design.runtimeconfig.json
+D:\.Net(first_projec)\Factory_Pattern_Design\bin\Debug\net8.0\Factory_Pattern_Design.dll
+D:\.Net(first_projec)\Factory_Pattern_Design\bin\Debug\net8.0\Factory_Pattern_Design.pdb
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.dll
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\refint\Factory_Pattern_Design.dll
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.pdb
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\Factory_Pattern_Design.genruntimeconfig.cache
+D:\.Net(first_projec)\Factory_Pattern_Design\obj\Debug\net8.0\ref\Factory_Pattern_Design.dll
