@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\TicTacToe\bin\Debug\net9.0\SystemDesign(LLD).exe
+D:\SystemDesign(LLD)\TicTacToe\bin\Debug\net9.0\SystemDesign(LLD).deps.json
+D:\SystemDesign(LLD)\TicTacToe\bin\Debug\net9.0\SystemDesign(LLD).runtimeconfig.json
+D:\SystemDesign(LLD)\TicTacToe\bin\Debug\net9.0\SystemDesign(LLD).dll
+D:\SystemDesign(LLD)\TicTacToe\bin\Debug\net9.0\SystemDesign(LLD).pdb
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).AssemblyInfo.cs
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).sourcelink.json
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).dll
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\refint\SystemDesign(LLD).dll
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).pdb
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\SystemDesign(LLD).genruntimeconfig.cache
+D:\SystemDesign(LLD)\TicTacToe\obj\Debug\net9.0\ref\SystemDesign(LLD).dll
