@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.sourcelink.json
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\bin\Debug\net9.0\SingleResponsibilityPrinciple.exe
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\bin\Debug\net9.0\SingleResponsibilityPrinciple.deps.json
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\bin\Debug\net9.0\SingleResponsibilityPrinciple.runtimeconfig.json
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\bin\Debug\net9.0\SingleResponsibilityPrinciple.dll
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\bin\Debug\net9.0\SingleResponsibilityPrinciple.pdb
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.dll
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\refint\SingleResponsibilityPrinciple.dll
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.pdb
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+D:\SystemDesign(LLD)\SingleResponsibilityPrinciple\obj\Debug\net9.0\ref\SingleResponsibilityPrinciple.dll

@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.sourcelink.json
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\bin\Debug\net9.0\LiskovSubstitutionPrinciple.exe
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\bin\Debug\net9.0\LiskovSubstitutionPrinciple.deps.json
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\bin\Debug\net9.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\bin\Debug\net9.0\LiskovSubstitutionPrinciple.dll
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\bin\Debug\net9.0\LiskovSubstitutionPrinciple.pdb
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.dll
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\refint\LiskovSubstitutionPrinciple.dll
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.pdb
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+D:\SystemDesign(LLD)\LiskovSubstitutionPrinciple\obj\Debug\net9.0\ref\LiskovSubstitutionPrinciple.dll

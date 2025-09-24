@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.AssemblyInfo.cs
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.sourcelink.json
+D:\SystemDesign(LLD)\OpenClosedPrinciple\bin\Debug\net9.0\OpenClosedPrinciple.exe
+D:\SystemDesign(LLD)\OpenClosedPrinciple\bin\Debug\net9.0\OpenClosedPrinciple.deps.json
+D:\SystemDesign(LLD)\OpenClosedPrinciple\bin\Debug\net9.0\OpenClosedPrinciple.runtimeconfig.json
+D:\SystemDesign(LLD)\OpenClosedPrinciple\bin\Debug\net9.0\OpenClosedPrinciple.dll
+D:\SystemDesign(LLD)\OpenClosedPrinciple\bin\Debug\net9.0\OpenClosedPrinciple.pdb
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.dll
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\refint\OpenClosedPrinciple.dll
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.pdb
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\OpenClosedPrinciple.genruntimeconfig.cache
+D:\SystemDesign(LLD)\OpenClosedPrinciple\obj\Debug\net9.0\ref\OpenClosedPrinciple.dll
