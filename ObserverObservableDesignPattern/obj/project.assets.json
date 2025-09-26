@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SystemDesign(LLD)\\StratergyDesignPattern\\StratergyDesignPattern.csproj",
-      "projectName": "StratergyDesignPattern",
-      "projectPath": "D:\\SystemDesign(LLD)\\StratergyDesignPattern\\StratergyDesignPattern.csproj",
+      "projectUniqueName": "D:\\SystemDesign(LLD)\\ObserverObservableDesignPattern\\ObserverObservableDesignPattern.csproj",
+      "projectName": "ObserverObservableDesignPattern",
+      "projectPath": "D:\\SystemDesign(LLD)\\ObserverObservableDesignPattern\\ObserverObservableDesignPattern.csproj",
       "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-      "outputPath": "D:\\SystemDesign(LLD)\\StratergyDesignPattern\\obj\\",
+      "outputPath": "D:\\SystemDesign(LLD)\\ObserverObservableDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

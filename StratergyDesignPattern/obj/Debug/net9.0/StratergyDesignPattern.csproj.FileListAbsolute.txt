@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.AssemblyInfo.cs
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.sourcelink.json
+D:\SystemDesign(LLD)\StratergyDesignPattern\bin\Debug\net9.0\StratergyDesignPattern.exe
+D:\SystemDesign(LLD)\StratergyDesignPattern\bin\Debug\net9.0\StratergyDesignPattern.deps.json
+D:\SystemDesign(LLD)\StratergyDesignPattern\bin\Debug\net9.0\StratergyDesignPattern.runtimeconfig.json
+D:\SystemDesign(LLD)\StratergyDesignPattern\bin\Debug\net9.0\StratergyDesignPattern.dll
+D:\SystemDesign(LLD)\StratergyDesignPattern\bin\Debug\net9.0\StratergyDesignPattern.pdb
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.dll
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\refint\StratergyDesignPattern.dll
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.pdb
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\StratergyDesignPattern.genruntimeconfig.cache
+D:\SystemDesign(LLD)\StratergyDesignPattern\obj\Debug\net9.0\ref\StratergyDesignPattern.dll

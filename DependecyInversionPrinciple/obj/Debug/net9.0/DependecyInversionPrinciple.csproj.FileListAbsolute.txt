@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.AssemblyInfo.cs
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.sourcelink.json
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\bin\Debug\net9.0\DependecyInversionPrinciple.exe
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\bin\Debug\net9.0\DependecyInversionPrinciple.deps.json
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\bin\Debug\net9.0\DependecyInversionPrinciple.runtimeconfig.json
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\bin\Debug\net9.0\DependecyInversionPrinciple.dll
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\bin\Debug\net9.0\DependecyInversionPrinciple.pdb
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.dll
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\refint\DependecyInversionPrinciple.dll
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.pdb
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\DependecyInversionPrinciple.genruntimeconfig.cache
+D:\SystemDesign(LLD)\DependecyInversionPrinciple\obj\Debug\net9.0\ref\DependecyInversionPrinciple.dll

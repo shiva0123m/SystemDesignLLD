@@ -1,0 +1,15 @@
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.AssemblyInfoInputs.cache
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.AssemblyInfo.cs
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.csproj.CoreCompileInputs.cache
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.sourcelink.json
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\bin\Debug\net9.0\InterfaceSegmentedPrinciple.exe
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\bin\Debug\net9.0\InterfaceSegmentedPrinciple.deps.json
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\bin\Debug\net9.0\InterfaceSegmentedPrinciple.runtimeconfig.json
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\bin\Debug\net9.0\InterfaceSegmentedPrinciple.dll
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\bin\Debug\net9.0\InterfaceSegmentedPrinciple.pdb
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.dll
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\refint\InterfaceSegmentedPrinciple.dll
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.pdb
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\InterfaceSegmentedPrinciple.genruntimeconfig.cache
+D:\SystemDesign(LLD)\InterfaceSegmentedPrinciple\obj\Debug\net9.0\ref\InterfaceSegmentedPrinciple.dll
